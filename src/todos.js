@@ -11,7 +11,7 @@ const todos = [
     key: date1.getTime(),
   },
   {
-    title: 'Написат ьпервое React-приложение',
+    title: 'Написать первое React-приложение',
     desc: 'Список запланированных дел',
     img: '',
     done: false,
